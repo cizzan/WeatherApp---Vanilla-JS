@@ -80,7 +80,7 @@ WeatherApp/
 
 - **Author**: Shrijan Shrestha
 - **Email**: cizzan@gmail.com
-- **GitHub**: [your-username](https://github.com/cizzan)
+- **GitHub**: [cizzan](https://github.com/cizzan)
 
 ---
 
